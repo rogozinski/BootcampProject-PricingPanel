@@ -1,4 +1,6 @@
 # PricingPanel [miniProject]
+![Design preview for the Pricing Panel from Colt Steele's Bootcamp](Screenshot.png)
+
  A small project called "Pricing Panel" from Colt Steele's Bootcamp. Pure HTML, CSS with a pinch of Flexbox
 
 ## What do I have:
